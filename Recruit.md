@@ -90,6 +90,10 @@ DDL：08.25
 
 [官方网站](https://chinacampus.jobs.intel.cn/intel/home/index)
 
+## tubi (已投递）
+
+[招聘信息](https://mp.weixin.qq.com/s/eHHwgnGcKG36C_q7ZBj-sA)
+
 ## Microsoft
 
 [招聘信息](https://mp.weixin.qq.com/s/cJpEz0X6DBpfB12WlbOFRA)
